@@ -1,0 +1,11 @@
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.deps.json
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.runtimeconfig.json
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.runtimeconfig.dev.json
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.dll
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.pdb
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.csprojAssemblyReference.cache
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.csproj.CoreCompileInputs.cache
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.AssemblyInfoInputs.cache
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.AssemblyInfo.cs
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.dll
+C:\Codigo\Udemy\DesignPatterns\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.pdb
